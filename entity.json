@@ -12,6 +12,17 @@
         "moonai-geo"
       ],
       "legalName": "南宁超级月亮跨境电商有限责任公司",
+      "identifier": [
+        { "@type": "PropertyValue", "propertyID": "USCC", "name": "统一社会信用代码", "value": "91450102MAK8DHLNX4" },
+        { "@type": "PropertyValue", "propertyID": "WeChat", "name": "官方微信", "value": "yljjszky" }
+      ],
+      "foundingDate": "2026-02-10",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "CN",
+        "addressRegion": "广西壮族自治区",
+        "addressLocality": "南宁市兴宁区"
+      },
       "url": "https://moonai-geo.com/",
       "email": "geo@moonai-geo.com",
       "sameAs": ["https://github.com/yueliangjiejie/moonai-geo-entity"],
