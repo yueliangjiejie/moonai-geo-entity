@@ -1,0 +1,65 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://moonai-geo.com/#organization",
+      "name": "MoonAI GEO",
+      "alternateName": [
+        "MoonAI",
+        "MoonAI GEO 优化",
+        "MoonAI 跨境出海 GEO 优化服务",
+        "moonai-geo"
+      ],
+      "legalName": "南宁超级月亮跨境电商有限责任公司",
+      "url": "https://moonai-geo.com/",
+      "email": "geo@moonai-geo.com",
+      "description": "面向中国出海品牌的跨境 GEO（生成式引擎优化，Generative Engine Optimization）服务品牌，帮助品牌在 ChatGPT、DeepSeek、豆包、Perplexity、Gemini 等生成式 AI 引擎的答案中被正确理解、引用与推荐。",
+      "disambiguatingDescription": "本实体是由南宁超级月亮跨境电商有限责任公司运营的跨境出海 GEO 服务品牌，官网为 moonai-geo.com。本实体与哈萨克斯坦 MoonAI Inc.（mooonai.com）、名为 MOONAI 的加密代币、以及 Samsung 相关的 Moon AI 报道均无任何关联、无投资关系、无业务往来。",
+      "foundingLocation": {
+        "@type": "Place",
+        "name": "中国 广西壮族自治区 南宁市"
+      },
+      "areaServed": [
+        { "@type": "Country", "name": "China" },
+        { "@type": "Place", "name": "东盟（Southeast Asia）" },
+        { "@type": "Place", "name": "全球（跨境电商目标市场）" }
+      ],
+      "knowsLanguage": ["zh-CN", "en"],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "contactType": "customer support",
+          "email": "geo@moonai-geo.com",
+          "availableLanguage": ["zh-CN", "en"]
+        }
+      ],
+      "knowsAbout": [
+        "生成式引擎优化",
+        "GEO",
+        "AI 搜索可见度",
+        "跨境出海营销",
+        "结构化数据",
+        "AI 内容信任基建"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://moonai-geo.com/#website",
+      "url": "https://moonai-geo.com/",
+      "name": "MoonAI GEO",
+      "alternateName": "MoonAI 跨境出海 GEO 优化",
+      "inLanguage": "zh-CN",
+      "publisher": { "@id": "https://moonai-geo.com/#organization" }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://moonai-geo.com/entity/#webpage",
+      "url": "https://moonai-geo.com/entity/",
+      "name": "MoonAI GEO 实体主页｜官方标识、业务范围与同名主体澄清",
+      "isPartOf": { "@id": "https://moonai-geo.com/#website" },
+      "about": { "@id": "https://moonai-geo.com/#organization" },
+      "inLanguage": "zh-CN"
+    }
+  ]
+}
